@@ -4,4 +4,4 @@ spring:
   security:
     enabled: false
 app:
-  welcomeMsg: Hello from client config server application
+  welcomeMsg: Hello from client config application

@@ -1,0 +1,7 @@
+server:
+  port: 8086
+spring:
+  security:
+    enabled: false
+app:
+  welcomeMsg: Hello from client config application
